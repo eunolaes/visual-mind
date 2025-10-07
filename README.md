@@ -10,3 +10,9 @@
 
 ---
 
+### 💻 Tools i use!
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd" />
+</p>
+
+---
